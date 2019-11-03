@@ -1,0 +1,4 @@
+[2019-11-03 11:52:33,964] [log.py|__console] [line:43] INFO    : 打开网址https://v.jlszyy.org/成功
+[2019-11-03 11:52:35,832] [log.py|__console] [line:43] INFO    : 单击，根据对象linktext[电影]，操作成功
+[2019-11-03 11:52:36,896] [log.py|__console] [line:43] INFO    : 单击，根据对象linktext[首页]，操作成功
+[2019-11-03 11:52:36,981] [log.py|__console] [line:43] INFO    : 输入，根据对象id[wd]，输入成功

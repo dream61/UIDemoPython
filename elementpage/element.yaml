@@ -1,0 +1,15 @@
+ weburl:
+    url: "https://v.jlszyy.org/"
+ indexp:
+    - element_info: "首页"
+      find_type: "linktext"
+      operate_type: "click"
+      info: "打开首页"
+    - element_info: "电影"
+      find_type: "linktext"
+      operate_type: "click"
+      info: "打开电影界面"
+    - element_info: "wd"
+      find_type: "id"
+      operate_type: "input"
+      info: "偶然发现的一天"

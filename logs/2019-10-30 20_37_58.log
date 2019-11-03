@@ -1,0 +1,4 @@
+[2019-10-30 20:38:16,616] [log.py|__console] [line:48] INFO    : 打开网址http://www.baidu.com成功
+[2019-10-30 20:38:16,703] [log.py|__console] [line:48] INFO    : 输入，根据对象id[kw]，输入成功
+[2019-10-30 20:38:16,773] [log.py|__console] [line:48] INFO    : 单击，根据对象id[su]，操作成功
+[2019-10-30 20:38:16,797] [log.py|__console] [line:48] INFO    : 检查文本，根据对象class[toindex]，与期望值[百度首页]一致
