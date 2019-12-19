@@ -18,7 +18,7 @@
 
 测试框架目录结构
 
-![1572787042103](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\1572787042103.png)
+![image](https://github.com/dream61/1572787042103.png)
 
 
 
@@ -42,17 +42,18 @@ HTML报告日志
 
 ![1572787879078](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\1572787879078.png)
 
-
+![image](https://github.com/dream61/1572787879078.png)
 
 用例失败自动截图存放指写的目录
 
 ![1572787940953](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\1572787940953.png)
 
-
+![image](https://github.com/dream61/1572787879078.png)
 
 ## 邮件测试报告
 
 ![1572788087222](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\1572788087222.png)
 
 
+![image](https://github.com/dream61/1572788087222.png)
 
